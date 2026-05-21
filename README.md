@@ -15,7 +15,7 @@ It was based on v1.0.0-beta4 (yes it does exist, but i never published it)
 ### Anything not on here?
 
 The design was simplified to be able to run on limited devices with low CPU and RAM power
-> The game is also compiled for Android 4.0 (API 18/19) on ARMABIv7a (32-bit) so don't expect it to not run on way too new versions of Android.
+> The game is also compiled for Android 4.0 (API 18/19) on ARMABIv7a (32-bit) so don't expect it to run on way too new versions of Android.
 
 ### Will this be published on the Play Store?
 
@@ -26,3 +26,8 @@ Since i do not make money from this. i will not be paying those 24 dollars to ju
 
 we also have a new icon. the original one was outdated on the game logo and design. so we modified it to get the one we have now.
 > This happened when the testing design was retired and upgraded to the skeumorphic design we use now on the java edition
+
+## Why no updates in the last months?
+
+I've had classes and lots of other ports to do, and i forgot to update XPlataformer and it's code. though i might take again the role and start coding again in all of the ports of our game.
+> We're also working on a linux compilation of this exact same source.
